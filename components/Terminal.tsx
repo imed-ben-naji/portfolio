@@ -19,12 +19,12 @@ const Terminal = () => {
     python: [
       'print("Hello, World! 👋 I\'m Imed Ben Naji")',
       'print("Based in Tunisie TN")',
-      'print("Empowering Cloud Infrastructure: Experienced DevOps Engineer with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines.")'
+      'print("Empowering Cloud Infrastructure: Experienced DevOps and Data Engineer with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines.")'
     ],
     javascript: [
       'console.log("Hello, World! 👋 I\'m Imed Ben Naji");',
       'console.log("Based in Tunisie TN");',
-      'console.log("Empowering Cloud Infrastructure: Experienced DevOps Engineer with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines.");'
+      'console.log("Empowering Cloud Infrastructure: Experienced DevOps and Data Engineer with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines.");'
     ]
   }), []);
 

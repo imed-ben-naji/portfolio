@@ -3,9 +3,10 @@ import React from 'react'
 import { motion } from 'framer-motion';
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import StyledPic from '../Styledpic';
-import { FaLightbulb, FaCode, FaPizzaSlice, FaHiking, FaPuzzlePiece, FaChalkboardTeacher } from 'react-icons/fa';
+import { FaLightbulb, FaCode, FaPizzaSlice, FaHiking, FaPuzzlePiece, FaChalkboardTeacher, FaBookOpen } from 'react-icons/fa';
 import { useScrollSection } from '@/hooks/use-scroll-section';
 import { CardSpotlight } from '../ui/card-spotlight';
+import { IoIosAnalytics } from 'react-icons/io';
 
 const AboutMe: React.FC = () => {
   const { ref, isVisible } = useScrollSection();
@@ -26,7 +27,7 @@ const AboutMe: React.FC = () => {
           </CardHeader>
           <CardContent className="text-sm sm:text-base text-foreground space-y-4">
             <p>
-              👋 Hello there! I&apos;m Imed Ben Naji, a DevOps Engineer with a passion for cloud computing and automation. My journey into the world of technology began with a deep curiosity for how things work, and it has evolved into a career dedicated to optimizing and orchestrating cloud infrastructures.
+              👋 Hello there! I&apos;m Imed Ben Naji, a DevOps & Data Engineer with a passion for cloud computing and automation. My journey into the world of technology began with a deep curiosity for how things work, and it has evolved into a career dedicated to optimizing and orchestrating cloud infrastructures.
             </p>
             <p>
               <FaCode className="inline-block mr-2" /> 
@@ -36,9 +37,9 @@ const AboutMe: React.FC = () => {
               When I&apos;m not architecting cloud solutions or optimizing data pipelines, you might find me:
             </p>
             <ul className="list-disc pl-5 space-y-2">
-              <li><FaPizzaSlice className="inline-block mr-2" /> Developing applications and exploring new programming frameworks</li>
-              <li><FaHiking className="inline-block mr-2" /> Delving into data analytics and learning more about data-driven decision-making</li>
-              <li><FaPuzzlePiece className="inline-block mr-2" /> Enjoying a good book or movie to unwind</li>
+              <li><FaCode className="inline-block mr-2" /> Developing applications and exploring new programming frameworks</li>
+              <li><IoIosAnalytics className="inline-block mr-2" /> Delving into data analytics and learning more about data management</li>
+              <li><FaBookOpen className="inline-block mr-2" /> Enjoying a good book or movie to unwind</li>
             </ul>
             <p>
             At present, I&apos;m deeply invested in mastering the latest DevOps practices, with a focus on AWS, Kubernetes, and Terraform, while also leveraging my experience in data processing and management. The intersection of development, data, and DevOps is where I thrive, and I&apos;m excited to continue exploring and pushing the boundaries in these fields. For me, every project is a chance to innovate and drive meaningful improvements, and that&apos;s what keeps me motivated.
