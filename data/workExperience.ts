@@ -26,9 +26,17 @@ export const workExperiences: WorkExperience[] = [
     duration: "Sep 2023 - present",
     year: 2024,
     description: [
-      "Crafted Python simulations to visualize (Fourier Series, Laplace Transforms, PDEs) solutions, enhancing student understanding of the link between theory and real-world applications.",
-      "Facilitated collaborative learning by leading group discussions and encouraging peer support, building a positive and productive learning environment.",
-      "Received excellent student feedback, contributing to a 20% increase in satisfaction ratings compared to previous terms."
+      "Implemented EKS infrastructure using Terraform, simplifying the deployment of scalable and highly available Kubernetes clusters for containerized applications.",
+      "Created Helm Charts to streamline and automate the deployment of SFTPGo, OpenSearch, OpenSearch Dashboard, Fluent Bit, and Metricbeat in an EKS cluster, for file transfer, log management, and monitoring.",
+      "Configured Identity and Access Management (IAM: users/roles) for fine-grained permission management and ensured secure access to AWS resources.",
+      "Set up and manage configurations in Route 53 for efficient domain and DNS service management.",
+      "Configured CloudWatch Dashboards with settings for EKS clusters, enabling efficient log export and monitoring.",
+      "Developed applications and configured infrastructure with Terraform, and CI/CD pipelines with GitHub Actions deployed to ECS Fargate.",
+      "Used GitLab CI to automate the deployment process of applications and jobs to EKS.",
+      "Worked on ETL and ELT processes to ingest data from different sources to Cassandra using jobs developed with Python.",
+      "Worked on ingesting data from S3 to Snowflake using Snowflake technologies like Snowpipe, external tables, and tasks for automation.",
+      "Processed data using SQL and Python, mapping and cleaning data in Cassandra and Snowflake.",
+      "Built pipelines to ingest data using API Gateway, Lambda functions, DynamoDB, and SQS for data management and processing.",
     ],
     skills: [
       { name: "JavaScript", icon: FaJs },
@@ -50,12 +58,11 @@ export const workExperiences: WorkExperience[] = [
     duration: "Feb 2023 - July 2023",
     year: 2023,
     description: [
-      "Engineered a predictive model using machine learning algorithms to forecast sales trends, enhancing decision-making accuracy and contributing to a 15% uplift in sales projections accuracy.",
-      "Boosted data processing efficiency by 40% via custom Python scripts for ETL automation, ensuring precise data handling from extraction to in-depth analysis, integrating with AWS cloud.",
-      "Led the team to optimize data processing workflows by 30% by migrating to AWS, enhancing both data handling efficiency and system scalability while also ensuring data accuracy.",
-      "Developed a Python-based application with a Tkinter GUI for the marketing team to add and track quotes, integrating with Power BI to visually monitor progress and improve quote management efficiency.",
-      "Established efficiency metrics and automated Excel dashboards using VBA scripting, which boosted the productivity and efficiency of designers and CAD technicians by over 25%.",
-      "Enhanced business process efficiency and decision support by collaborating with teams to optimize data workflows and designing tailored Power BI dashboards and KPI reports, resulting in improved strategic planning across the organization."
+      "Designed and developed a social media management platform using Nest.js, Vue.js, and MySQL.",
+      "Implemented user authentication, post scheduling, and analytics tracking features, enabling users to manage social media content effectively.",
+      "Built the AWS cloud architecture for the social media management platform, ensuring high availability and optimal scalability using AWS services.",
+      "Architected the infrastructure in AWS using Terraform, automating the deployment for efficient and reproducible cloud resource management.",
+      "Set up pipelines with GitHub Actions for automated deployment of the social media management platform on AWS ECS, ensuring continuous delivery and efficient version management.",
     ],
     skills: [
       { name: "JavaScript", icon: FaJs },
@@ -74,9 +81,9 @@ export const workExperiences: WorkExperience[] = [
     duration: "June 2022 – July 2022",
     year: 2022,
     description: [
-      "Designed flow elements according to provided specifications using RW Miller software, improving product performance in the oil & gas sector.",
-      "Managed technical quotations, effectively converting quotes to orders, demonstrating strong business communication skills.",
-      "Handled client-centric reporting and documentation, ensuring tailored solutions and high customer satisfaction."
+      "Designed and developed an e-commerce website for a cosmetics store using React, Node.js, Express, and MongoDB, enabling online sales and customer management.",
+      "Implemented user authentication and authorization features using JWT tokens and bcrypt for secure access control and data protection.",
+      "Managed source code with Git. Collaborated with the team to ensure code quality and version control, facilitating seamless integration and deployment processes.",
     ],
     skills: [
       { name: "JavaScript", icon: FaJs },

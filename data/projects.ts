@@ -45,64 +45,64 @@ export const projects: Project[] = [
     { name: "Infrastructure as Code"}
   ]
   },
-  {
-    id: 2,
-  title: "TickTick-Notion Two-Way Sync",
-  description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
-  icon: FaSyncAlt,
-  technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
-  githubLink: "https://github.com/imed-ben-naji",
-  skills: [
-    { name: "API Integration"},
-    { name: "Asynchronous Programming"},
-    { name: "Data Synchronization"},
-    { name: "Python Development"},
-    { name: "Task Automation"}
-  ]
-  },
-  {
-    id: 3,
-  title: "TickTick-Notion Two-Way Sync",
-  description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
-  icon: FaSyncAlt,
-  technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
-  githubLink: "https://github.com/imed-ben-naji",
-  skills: [
-    { name: "API Integration"},
-    { name: "Asynchronous Programming"},
-    { name: "Data Synchronization"},
-    { name: "Python Development"},
-    { name: "Task Automation"}
-  ]
-  },
-  {
-    id: 4,
-  title: "TickTick-Notion Two-Way Sync",
-  description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
-  icon: FaSyncAlt,
-  technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
-  githubLink: "https://github.com/imed-ben-naji",
-  skills: [
-    { name: "API Integration"},
-    { name: "Asynchronous Programming"},
-    { name: "Data Synchronization"},
-    { name: "Python Development"},
-    { name: "Task Automation"}
-  ]
-  },
-  {
-    id: 5,
-  title: "TickTick-Notion Two-Way Sync",
-  description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
-  icon: FaSyncAlt,
-  technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
-  githubLink: "https://github.com/imed-ben-naji",
-  skills: [
-    { name: "API Integration"},
-    { name: "Asynchronous Programming"},
-    { name: "Data Synchronization"},
-    { name: "Python Development"},
-    { name: "Task Automation"}
-  ]
-  },
+  // {
+  //   id: 2,
+  // title: "TickTick-Notion Two-Way Sync",
+  // description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
+  // icon: FaSyncAlt,
+  // technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
+  // githubLink: "https://github.com/imed-ben-naji",
+  // skills: [
+  //   { name: "API Integration"},
+  //   { name: "Asynchronous Programming"},
+  //   { name: "Data Synchronization"},
+  //   { name: "Python Development"},
+  //   { name: "Task Automation"}
+  // ]
+  // },
+  // {
+  //   id: 3,
+  // title: "TickTick-Notion Two-Way Sync",
+  // description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
+  // icon: FaSyncAlt,
+  // technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
+  // githubLink: "https://github.com/imed-ben-naji",
+  // skills: [
+  //   { name: "API Integration"},
+  //   { name: "Asynchronous Programming"},
+  //   { name: "Data Synchronization"},
+  //   { name: "Python Development"},
+  //   { name: "Task Automation"}
+  // ]
+  // },
+  // {
+  //   id: 4,
+  // title: "TickTick-Notion Two-Way Sync",
+  // description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
+  // icon: FaSyncAlt,
+  // technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
+  // githubLink: "https://github.com/imed-ben-naji",
+  // skills: [
+  //   { name: "API Integration"},
+  //   { name: "Asynchronous Programming"},
+  //   { name: "Data Synchronization"},
+  //   { name: "Python Development"},
+  //   { name: "Task Automation"}
+  // ]
+  // },
+  // {
+  //   id: 5,
+  // title: "TickTick-Notion Two-Way Sync",
+  // description: "A Python-based application that enables two-way synchronization between TickTick tasks and Notion databases, allowing seamless task management across both platforms.",
+  // icon: FaSyncAlt,
+  // technologies: ["Python", "TickTick API", "Notion API", "aiohttp", "asyncio"],
+  // githubLink: "https://github.com/imed-ben-naji",
+  // skills: [
+  //   { name: "API Integration"},
+  //   { name: "Asynchronous Programming"},
+  //   { name: "Data Synchronization"},
+  //   { name: "Python Development"},
+  //   { name: "Task Automation"}
+  // ]
+  // },
 ];

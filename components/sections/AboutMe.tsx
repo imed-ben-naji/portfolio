@@ -26,22 +26,22 @@ const AboutMe: React.FC = () => {
           </CardHeader>
           <CardContent className="text-sm sm:text-base text-foreground space-y-4">
             <p>
-              👋 Hello there! I&apos;m Imed Ben Naji, a Data Analyst with a knack for decoding complicated data and spinning it into a meaningful narrative. My fascination for math was nurtured from childhood, all thanks to my math-genius mother.
+              👋 Hello there! I&apos;m Imed Ben Naji, a DevOps Engineer with a passion for cloud computing and automation. My journey into the world of technology began with a deep curiosity for how things work, and it has evolved into a career dedicated to optimizing and orchestrating cloud infrastructures.
             </p>
             <p>
               <FaCode className="inline-block mr-2" /> 
-              Post my two-year stint as a data analyst, I decided to plunge into the world of academia to pursue my master&apos;s. Here, I found myself teaching Transform Calculus, which was quite an eye-opener. I realized that programming and math weren&apos;t just two separate entities, they were two sides of the same coin. This understanding ignited my interest in data analysis and machine learning.
+              After earning my degree in Software Engineering from the National Engineering School of Tunis (ENIT), I dove headfirst into the dynamic field of DevOps. I&apos;ve had the pleasure of working on projects that involve everything from implementing scalable Kubernetes clusters to automating complex deployment pipelines.
             </p>
             <p>
-              When I&apos;m not crunching numbers or coding, you might find me:
+              When I&apos;m not architecting cloud solutions or optimizing data pipelines, you might find me:
             </p>
             <ul className="list-disc pl-5 space-y-2">
-              <li><FaPizzaSlice className="inline-block mr-2" /> On a never-ending quest for the perfect pizza recipe</li>
-              <li><FaHiking className="inline-block mr-2" /> Exploring new hiking trails (and probably getting lost)</li>
-              <li><FaPuzzlePiece className="inline-block mr-2" /> Solving puzzles that make my brain do backflips</li>
+              <li><FaPizzaSlice className="inline-block mr-2" /> Developing applications and exploring new programming frameworks</li>
+              <li><FaHiking className="inline-block mr-2" /> Delving into data analytics and learning more about data-driven decision-making</li>
+              <li><FaPuzzlePiece className="inline-block mr-2" /> Enjoying a good book or movie to unwind</li>
             </ul>
             <p>
-              At present, I&apos;m eagerly diving into the deep end of machine learning and dabbling in web development as a bit of a side hobby. The intersection of data science and technology holds endless possibilities, and I can&apos;t wait to explore them all. I&apos;m a firm believer in lifelong learning and self-improvement, so I seize every opportunity to learn, regardless of the circumstances. And honestly, making life a tad simpler with these skills - now, isn&apos;t that a fun thought?
+            At present, I&apos;m deeply invested in mastering the latest DevOps practices, with a focus on AWS, Kubernetes, and Terraform, while also leveraging my experience in data processing and management. The intersection of development, data, and DevOps is where I thrive, and I&apos;m excited to continue exploring and pushing the boundaries in these fields. For me, every project is a chance to innovate and drive meaningful improvements, and that&apos;s what keeps me motivated.
             </p>
           </CardContent>
         </Card>
