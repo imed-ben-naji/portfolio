@@ -21,7 +21,7 @@ const ActionButtons = () => (
       </motion.button>
     </Link>
     <Link 
-      href="https://drive.google.com/file/d/1297PcyVV9E4lCL4qAPCZmLujKY93jpdI/view?usp=sharing" 
+      href="https://docs.google.com/document/d/1667mQoubg5ML6dKMbJ6xGjNrMMMP0dVxk-C4kfyy6vQ/edit?usp=sharing" 
       target="_blank" 
       rel="noopener noreferrer"
     >
