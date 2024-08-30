@@ -50,7 +50,7 @@ export const workExperiences: WorkExperience[] = [
       { name: "SQL", icon: FaDatabase },
       { name: "Snowflake", icon: FaRegSnowflake },
     ],
-    logo: "/logos/concordia-university.png" // Add the path to the Concordia University logo
+    logo: "/portfolio/logos/dataGuiding.png" // Add the path to the Concordia University logo
   },
   {
     company: "Data Guiding",
@@ -73,7 +73,7 @@ export const workExperiences: WorkExperience[] = [
       { name: "Nest.js", icon: SiNestjs },
       { name: "SQL", icon: FaDatabase },
     ],
-    logo: "/logos/ia-flow.png"
+    logo: "/portfolio/logos/dataGuiding.png"
   },
   {
     company: "Campusna",
@@ -92,6 +92,6 @@ export const workExperiences: WorkExperience[] = [
       { name: "React", icon: FaReact },
       { name: "Node.js", icon: FaNode },
     ],
-    logo: "/logos/ia-flow.png"
+    logo: "/portfolio/logos/campusna.png"
   }
 ];

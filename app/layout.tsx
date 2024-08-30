@@ -61,13 +61,13 @@ export default function RootLayout({
           property="og:image"
           content="https://imed-ben-naji.github.io/portfolio/pics/web_screenshot.png"
         />
-        <script dangerouslySetInnerHTML={{
+        {/* <script dangerouslySetInnerHTML={{
           __html: `
             if (window.location.href === "https://imed-ben-naji.github.io/portfolio/") {
               window.location.replace("https://imed-ben-naji.github.io/portfolio/");
             }
           `
-        }} />
+        }} /> */}
         <meta property="og:type" content="website" />
       </head>
       <body
