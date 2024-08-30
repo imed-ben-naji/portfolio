@@ -53,9 +53,6 @@ const Footer: React.FC = () => {
             </span>{' '}
             <span className="animate-pulse inline-block">🚀</span>
           </p>
-          <p className="mt-2 text-sm">
-            Powered by coffee, curiosity, and a dash of nerdy enthusiasm!
-          </p>
         </motion.div>
       </div>
     </motion.footer>

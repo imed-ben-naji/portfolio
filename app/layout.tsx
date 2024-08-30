@@ -56,15 +56,15 @@ export default function RootLayout({
           property="og:description"
           content="Data analyst with a passion for web development and machine learning. Transforming complex data into actionable insights and building innovative web solutions."
         />
-        <meta property="og:url" content="https://krishnakumar.dev" />
+        <meta property="og:url" content="https://imed-ben-naji.github.io/portfolio/" />
         <meta
           property="og:image"
-          content="https://krishnakumar.dev/pics/web_screenshot.png"
+          content="https://imed-ben-naji.github.io/portfolio/pics/web_screenshot.png"
         />
         <script dangerouslySetInnerHTML={{
           __html: `
-            if (window.location.href === "https://krishnavalliappan.github.io/portfolio-website/") {
-              window.location.replace("https://www.krishnakumar.dev");
+            if (window.location.href === "https://imed-ben-naji.github.io/portfolio/") {
+              window.location.replace("https://imed-ben-naji.github.io/portfolio/");
             }
           `
         }} />
