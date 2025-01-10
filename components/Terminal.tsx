@@ -18,12 +18,12 @@ const Terminal = () => {
   const codeLines: CodeLines = useMemo(() => ({
     python: [
       'print("Hello, World! 👋 I\'m Imed Ben Naji")',
-      'print("Based in Tunisie TN")',
+      'print("Based in Tunisia TN")',
       'print("Empowering Cloud Infrastructure: Experienced DevOps and Data Engineer with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines.")'
     ],
     javascript: [
       'console.log("Hello, World! 👋 I\'m Imed Ben Naji");',
-      'console.log("Based in Tunisie TN");',
+      'console.log("Based in Tunisia TN");',
       'console.log("Empowering Cloud Infrastructure: Experienced DevOps and Data Engineer with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines.");'
     ]
   }), []);
