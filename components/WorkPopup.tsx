@@ -12,7 +12,7 @@ const WorkPopup = forwardRef<HTMLDivElement, WorkPopupProps>(({ active, setActiv
   if (!active) return null;
 
   return (
-    <AnimatePresence>
+     <AnimatePresence>
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
